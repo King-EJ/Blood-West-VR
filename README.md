@@ -12,21 +12,21 @@ INSTALL
   
 CONTROLS (the VR controllers are an Xbox gamepad - menus work with them as with a gamepad, no laser pointer)
 -
-  Right trigger = RT (attack / shoot)
+    Right trigger = RT (attack / shoot)
   
-  Left trigger = LT (aim / block)
+    Left trigger = LT (aim / block)
   
-  Right grip    = laser (in menus: RB) 
+    Right grip    = laser (in menus: RB) 
   
-  Left grip    = LB (weapon wheel)
+    Left grip    = LB (weapon wheel)
   
-  Right stick down = RB (switch ammo type)
+    Right stick down = RB (switch ammo type)
   
-  Hold X 0.6 s = Start (inventory open / close); 
+    Hold X 0.6 s = Start (inventory open / close); 
   
-  tap X = X (use)
+    tap X = X (use)
   
-  A + B together = Back / View (pause menu)
+    A + B together = Back / View (pause menu)
   
   Use / pick up: point with the right controller (VR menu - Controls - "Use / pick up by pointing with")
   
